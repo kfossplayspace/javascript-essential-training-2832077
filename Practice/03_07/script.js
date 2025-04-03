@@ -9,7 +9,7 @@
  */
 /**
  * Create a Car
- * /
+ */
  Const car = {
     name: "Automobile",
     passengers: 6,

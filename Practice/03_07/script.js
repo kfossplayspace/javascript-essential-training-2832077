@@ -10,7 +10,7 @@
 /**
  * Create a Car
  */
- Const car = {
+ const car = {
     name: "Automobile",
     passengers: 6,
     color: red,
